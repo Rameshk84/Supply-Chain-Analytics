@@ -1,5 +1,6 @@
 # Moving from Complexity to Clarity in Supply Chain
-<img width="328" alt="JIT_LOGO" src="https://github.com/user-attachments/assets/dea6666e-4f35-45e6-a4cf-d5a8af6a3cca" />
+![tableau_dashboard](https://github.com/user-attachments/assets/4972aa65-f113-4336-9771-95a41fdc0346)
+
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
