@@ -4,6 +4,9 @@
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
+## Medium Blog
+Link: https://medium.com/@rameshk_62454/moving-from-complexity-to-clarity-in-supply-chain-data-analytics-eda-7d898795bfd7
+
 ## Project Description :
 
 The project provides a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
