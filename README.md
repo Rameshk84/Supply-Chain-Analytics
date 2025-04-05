@@ -80,7 +80,7 @@ Warehouse Inventory: Information on inventory management for each product name i
 
 Detailed analysis including feature metric, Key insights and suggestion can be found of medium Blog Post : Soon
 
-## Sugesstions
+## Business Sugesstions / Recommandations
 
 **Optimize Product Inventory :**
 To improve profits and save on storage costs, we need to optimize our inventory, especially for most profitable and popular products worldwide. It is important to study demand patterns and adjust stock levels to avoid running out during peak periods and reduce excess inventory during slower times. Maintaining a reasonable buffer above expected demand during busy seasons can prevent shortages and optimize inventory expenses.
